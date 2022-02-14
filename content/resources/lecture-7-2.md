@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 7.3 Slides: [Production and Decay (PDF)](resources/mit8_701f20_lec7-3)'
+parent_title: Chapter 7. Higgs Physics
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7.3: Production and Decay (05:35)'
 uid: 7eb4cbdb-b57b-81b8-0ee0-2b29db025703

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 6.4 Slides: [Quarks (PDF)](resources/mit8_701f20_lec6-4)'
+parent_title: Chapter 6. Weak Interactions
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6.4: Quarks (09:17)'
 uid: e6b09171-a403-ca55-63e6-69c367e26710

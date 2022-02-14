@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 8.5 Slides: [Results of Neutrino Oscillation Experiments (PDF)](resources/mit8_701f20_lec8-5)'
+parent_title: Chapter 8. Neutrino Physics
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8.5: Results of Neutrino Oscillation Experiments (05:36)'
 uid: b7c6a0c0-da59-263e-76d5-90f0a3ff2c9c

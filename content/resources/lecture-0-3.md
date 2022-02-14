@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "Lecture 0.4 Slides:\_[Literature (PDF)](resources/mit8_701f20_lec0-4)"
+parent_title: Chapter 0. Introduction
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 0.4: Literature (03:34)'
 uid: b5bbd2c0-b036-e19f-783f-3d6e04cdf0b3

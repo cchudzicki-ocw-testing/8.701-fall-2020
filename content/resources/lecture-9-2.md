@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 9.3 Slides: [Stability (PDF)](resources/mit8_701f20_lec9-3)'
+parent_title: Chapter 9. Nuclear Physics
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9.3: Stability (10:22)'
 uid: 402a90bb-945c-4d1d-c49b-55f3f1110726

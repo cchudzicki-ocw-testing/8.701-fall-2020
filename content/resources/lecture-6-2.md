@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 6.3 Slides: [Pion Decay (PDF)](resources/mit8_701f20_lec6-3)'
+parent_title: Chapter 6. Weak Interactions
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6.3: Pion Decay (07:50)'
 uid: 114d878c-ba51-2607-3874-c984b4ab9e90

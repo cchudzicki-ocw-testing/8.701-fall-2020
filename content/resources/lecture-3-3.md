@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "\_Lecture 3.4 Slides:\_[Higher-Order Diagrams (PDF)](resources/mit8_701f20_lec3-4)"
+parent_title: Chapter 3. Feynman Calculus
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3.4: Higher-Order Diagrams (03:30)'
 uid: f7bd3bc4-d04f-76aa-7534-a09fab4237b0

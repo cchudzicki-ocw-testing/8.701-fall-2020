@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "\_Lecture 4.9 Slides:\_[Renormalization and Higher-Order QED Diagrams\
+  \ (PDF)](resources/mit8_701f20_lec4-9)"
+parent_title: Chapter 4. QED
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4.9: Renormalization and Higher-Order QED Diagrams (04:43)'
 uid: b376b4b5-7203-c305-a8ce-bfa9dcc9ea05

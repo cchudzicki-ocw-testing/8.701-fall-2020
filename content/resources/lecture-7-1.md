@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 7.2 Slides: [Fermion Masses (PDF)](resources/mit8_701f20_lec7-2)'
+parent_title: Chapter 7. Higgs Physics
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7.2: Fermion Masses (03:42)'
 uid: 532af19b-0ef7-b5ea-30fd-b9d6bada6f79

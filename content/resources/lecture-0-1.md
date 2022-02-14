@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "Lecture 0.2 Slides:\_[Course Organization (PDF)](resources/mit8_701f20_lec0-2)"
+parent_title: Chapter 0. Introduction
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 0.2: Course Organization (04:01)'
 uid: 9336a6ed-9580-ec31-2da5-8b89cd64d41f

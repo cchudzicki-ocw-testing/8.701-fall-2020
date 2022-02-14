@@ -1,9 +1,13 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
 parent_title: Video Lectures
+parent_type: CourseSection
 parent_uid: 82effbc6-0d78-a950-02bb-b94bd88aa16a
 title: Chapter 0. Introduction
+type: CourseSection
 uid: 00f1d787-7dd6-c6ab-86fa-05e23037ce9e
 videos:
   content:

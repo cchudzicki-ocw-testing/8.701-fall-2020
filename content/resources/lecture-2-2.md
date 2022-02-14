@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 2.3 Slides: [Parity (PDF)](resources/mit8_701f20_lec2-3)'
+parent_title: Chapter 2. Symmetries
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2.3: Parity (04:29)'
 uid: 834f09b9-9252-0c4f-f8f3-3a747f89b1c4

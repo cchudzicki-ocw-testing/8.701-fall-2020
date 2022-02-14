@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "\_Lecture 0.7 Slides:\_[Units (PDF)](resources/mit8_701f20_lec0-7)"
+parent_title: Chapter 0. Introduction
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 0.7: Units (05:48)'
 uid: f2f1646a-7d09-2d7f-ccaf-3a4d0cf31275

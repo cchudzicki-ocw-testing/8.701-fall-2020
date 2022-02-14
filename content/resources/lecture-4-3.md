@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "\_Lecture 4.4 Slides:\_[Photons (PDF)](resources/mit8_701f20_lec4-4)"
+parent_title: Chapter 4. QED
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4.4: Photon (07:47)'
 uid: ac0d20b8-d7c8-99f5-5b41-eed266e20093

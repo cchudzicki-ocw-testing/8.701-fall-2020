@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 9.4 Slides: [Nuclear Force (PDF)](resources/mit8_701f20_lec9-4)'
+parent_title: Chapter 9. Nuclear Physics
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9.4: Nuclear Force (09:18)'
 uid: 53e2dd9e-63e6-cb24-b2f0-449cf798b962

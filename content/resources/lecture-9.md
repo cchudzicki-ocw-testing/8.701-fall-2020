@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 9.1 Slides: [Introduction (PDF)](resources/mit8_701f20_lec9-1)'
+parent_title: Chapter 9. Nuclear Physics
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9.1: Introduction (05:26)'
 uid: 78b6129d-dd93-8140-ed3d-9d3ce450dbcb

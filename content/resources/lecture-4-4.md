@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "\_Lecture 4.5 Slides:\_[Feynman Rules for QED (PDF)](resources/mit8_701f20_lec4-5)"
+parent_title: Chapter 4. QED
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4.5: Feynman Rules for QED (05:51)'
 uid: f888b6af-ca17-0bc7-8c0b-59b3a34e2160

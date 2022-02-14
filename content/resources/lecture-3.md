@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "\_Lecture 3.1 Slide:\_[Introduction (PDF)](resources/mit8_701f20_lec3-1)"
+parent_title: Chapter 3. Feynman Calculus
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3.1: Introduction (02:18)'
 uid: 71464c30-8b1e-079e-e183-21e38b7223d8

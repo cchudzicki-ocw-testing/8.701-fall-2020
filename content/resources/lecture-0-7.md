@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "Lecture 0.8 Slides:\_[Relativistic Kinematics (PDF)](resources/mit8_701f20_lec0-8)"
+parent_title: Chapter 0. Introduction
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 0.8: Relativistic Kinematics (15:21)'
 uid: d6c2ee21-4bb6-5bd4-d39e-628738b08138

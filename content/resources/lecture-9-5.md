@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 9.6 Slides: [Gamma Decay (PDF)](resources/mit8_701f20_lec9-6)'
+parent_title: Chapter 9. Nuclear Physics
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9.6: Gamma Decay (04:42)'
 uid: 3a7a38c6-5191-351d-6cb4-b055ad7eece0

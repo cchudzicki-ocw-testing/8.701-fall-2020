@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 9.2 Slides: [Binding Energies (PDF)](resources/mit8_701f20_lec9-2)'
+parent_title: Chapter 9. Nuclear Physics
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9.2: Binding Energies (09:31)'
 uid: c700bdfe-3095-8a55-da00-d4a87fd2ea4d

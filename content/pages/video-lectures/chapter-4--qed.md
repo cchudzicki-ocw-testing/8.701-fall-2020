@@ -1,9 +1,13 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
 parent_title: Video Lectures
+parent_type: CourseSection
 parent_uid: 82effbc6-0d78-a950-02bb-b94bd88aa16a
 title: Chapter 4. QED
+type: CourseSection
 uid: 261d62f3-5d97-9dd7-607b-034c59d248ec
 videos:
   content:

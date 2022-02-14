@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 1.4 Slides: [Decays (PDF)](resources/mit8_701f20_lec1-4)'
+parent_title: Chapter 1. Fermions, Bosons, and Fields
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1.4: Decays (07:37)'
 uid: a21424ef-5c5c-0ce8-40c4-90341f4bf2d0

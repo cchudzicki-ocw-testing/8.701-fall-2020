@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/b6e8a33bc8b31c1f773eece35d232f02_nXzur-2hbkI.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: b6e8a33b-c8b3-1c1f-773e-ece35d232f02
 ---

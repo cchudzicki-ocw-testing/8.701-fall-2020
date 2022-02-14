@@ -1,9 +1,13 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
 parent_title: Video Lectures
+parent_type: CourseSection
 parent_uid: 82effbc6-0d78-a950-02bb-b94bd88aa16a
 title: Chapter 3. Feynman Calculus
+type: CourseSection
 uid: 07284824-3e45-3cd9-63bd-762605c5e6b8
 videos:
   content:

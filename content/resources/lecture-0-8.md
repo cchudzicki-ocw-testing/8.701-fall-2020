@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "Lecture 0.9 Slides:\_[Spin (PDF)](resources/mit8_701f20_lec0-9)"
+parent_title: Chapter 0. Introduction
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 0.9: Spin (05:05)'
 uid: 21bbe2ed-97f0-c6cb-8864-9cb90b365aaf

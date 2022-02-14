@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 2.2 Slides: [Flavor Symmetry (PDF)](resources/mit8_701f20_lec2-2)'
+parent_title: Chapter 2. Symmetries
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2.2: Flavor Symmetry (06:50)'
 uid: 7829948e-b248-0e81-81e5-05edcbdf1019

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "Lecture 0.5 Slides:\_[Early History and People in Nuclear and Particle\
+  \ Physics (PDF)](resources/mit8_701f20_lec0-5)"
+parent_title: Chapter 0. Introduction
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 0.5: Early History and People in Nuclear and Particle Physics (16:01)'
 uid: abc252d0-c04c-b4b9-7c73-2ea47ecf29df

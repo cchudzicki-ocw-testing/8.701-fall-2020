@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 8.3 Slides: [Mixing (PDF)](resources/mit8_701f20_lec8-3)'
+parent_title: Chapter 8. Neutrino Physics
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8.3: Mixing (05:37)'
 uid: 2fac7dcb-e5d5-8070-7b9d-e3b605f4a9c1

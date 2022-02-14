@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "\_Lecture 4.7 Slides:\_[Casimir's Trick (PDF)](resources/mit8_701f20_lec4-7)"
+parent_title: Chapter 4. QED
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4.7: Casimir''s Trick (10:24)'
 uid: f55bb025-da92-962b-80a8-381539ad793b

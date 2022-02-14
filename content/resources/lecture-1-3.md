@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 1.5 Slides: [Reactions (PDF)](resources/mit8_701f20_lec1-5)'
+parent_title: Chapter 1. Fermions, Bosons, and Fields
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1.5: Reactions (03:54)'
 uid: 8caf85f1-4209-d8e6-b313-184686c8153a

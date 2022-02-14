@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 6.1 Slides: [Feynman Rules (PDF)](resources/mit8_701f20_lec6-1)'
+parent_title: Chapter 6. Weak Interactions
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6.1: Feynman Rules (09:44)'
 uid: 4e52a249-df98-8bf1-c4e2-cf69aaafdf83

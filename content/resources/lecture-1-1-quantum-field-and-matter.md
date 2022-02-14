@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 1.1 Slides: [Quantum Field and Matter (PDF)](resources/mit8_701f20_lec1-1)'
+parent_title: Chapter 1. Fermions, Bosons, and Fields
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1.1: Quantum Field and Matter (07:04)'
 uid: 5061dd23-397b-9a8d-82a8-f9d1c389f8fb

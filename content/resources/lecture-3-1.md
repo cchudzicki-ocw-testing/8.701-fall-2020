@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "\_Lecture 3.2 Slides:\_[Fermi's Golden Rule (PDF)](resources/mit8_701f20_lec3-2)"
+parent_title: Chapter 3. Feynman Calculus
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3.2: Fermi''s Golden Rule (06:37)'
 uid: 45454b72-1a9e-ccd6-e056-8ed681e25bb3

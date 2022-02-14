@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 5.6 Slides: [Hadron Collider (PDF)](resources/mit8_701f20_lec5-6)'
+parent_title: Chapter 5. QCD
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5.6: Hadron Collider (03:55)'
 uid: 70e0c21e-c6e7-64a9-9b4c-abd61d7cfaa8

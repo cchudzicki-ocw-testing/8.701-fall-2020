@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 5.5 Slides: [Asymptotic Freedom (PDF)](resources/mit8_701f20_lec5-5)'
+parent_title: Chapter 5. QCD
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: ' Lecture 5.5: Asymptotic Freedom (06:53)'
 uid: 5a328379-6045-e406-3f61-217b81a517bd

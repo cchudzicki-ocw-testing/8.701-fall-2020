@@ -1,9 +1,13 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
 parent_title: Video Lectures
+parent_type: CourseSection
 parent_uid: 82effbc6-0d78-a950-02bb-b94bd88aa16a
 title: Chapter 1. Fermions, Bosons, and Fields
+type: CourseSection
 uid: 541ed54b-ca01-1ae6-c93f-3e4894265c66
 videos:
   content:

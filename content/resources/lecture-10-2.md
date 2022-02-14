@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 10.3 Slides: [Calorimetry (PDF)](resources/mit8_701f20_lec10-3)'
+parent_title: Chapter 10. Instrumentation
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10.3: Calorimetry (06:24)'
 uid: a59ce1d4-c556-adb1-60b7-dec5d7d1d60c

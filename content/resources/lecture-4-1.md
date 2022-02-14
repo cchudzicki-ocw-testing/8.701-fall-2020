@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: "\_Lecture 4.2 Slides:\_[Dirac Equation Solutions (PDF)](resources/mit8_701f20_lec4-2)"
+parent_title: Chapter 4. QED
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4.2: Dirac Equation Solutions (06:04)'
 uid: 660ad365-2fee-171c-4b4b-ebc5909ca2dd

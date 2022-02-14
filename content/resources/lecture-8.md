@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 8.1 Slides: [In the Standard Model (PDF)](resources/mit8_701f20_lec8-1)'
+parent_title: Chapter 8. Neutrino Physics
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8.1: In the Standard Model (05:04)'
 uid: 724f3676-35bc-99d0-32b4-7e0686aa2b94

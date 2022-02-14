@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 2.4 Slides: [Charge Conjugation (PDF)](resources/mit8_701f20_lec2-4)'
+parent_title: Chapter 2. Symmetries
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2.4: Charge Conjugation (02:30)'
 uid: 5f148e4c-ccef-eb63-2870-6a3edc801ae0

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Lecture Slides
+optional_text: 'Lecture 8.6 Slides: [Mass Scale and Nature (PDF)](resources/mit8_701f20_lec8-6)'
+parent_title: Chapter 8. Neutrino Physics
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8.6: Mass Scale and Nature (07:21)'
 uid: be318ee5-cb3c-1328-2ec4-44b9fadd313a
