@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "Lecture 0.8 Slides:\_[Relativistic Kinematics (PDF)](resources/mit8_701f20_lec0-8)"
 parent_title: Chapter 0. Introduction

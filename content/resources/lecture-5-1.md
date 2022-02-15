@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 5.2 Slides: [ELastic Electron-Positron Scattering (PDF)](resources/mit8_701f20_lec5-2)'
 parent_title: Chapter 5. QCD

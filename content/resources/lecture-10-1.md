@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 10.2 Slides: [Tracking Detectors (PDF)](resources/mit8_701f20_lec10-2)'
 parent_title: Chapter 10. Instrumentation

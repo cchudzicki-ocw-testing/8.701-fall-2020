@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "\_Lecture 4.9 Slides:\_[Renormalization and Higher-Order QED Diagrams\
   \ (PDF)](resources/mit8_701f20_lec4-9)"
