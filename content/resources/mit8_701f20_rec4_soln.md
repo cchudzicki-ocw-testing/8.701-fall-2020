@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Document
 title: 8.701 Introduction to Nuclear and Particle Physics, Recitation 4 Solutions
-type: OCWFile
 uid: 016b1ba3-780c-dbdc-e9e0-1051b587cc9d
 ---

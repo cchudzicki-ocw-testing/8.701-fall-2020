@@ -7,7 +7,6 @@ parent_title: Video Lectures
 parent_type: CourseSection
 parent_uid: 82effbc6-0d78-a950-02bb-b94bd88aa16a
 title: Chapter 2. Symmetries
-type: CourseSection
 uid: d2b271d8-0b70-02c8-8970-68f0acab2a6d
 videos:
   content:

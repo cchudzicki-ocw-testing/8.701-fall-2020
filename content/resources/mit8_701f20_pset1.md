@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 8.701 F2020 Problem Set 1
-type: OCWFile
 uid: 80c7df03-298c-d68d-3fc0-0102bae6862f
 ---

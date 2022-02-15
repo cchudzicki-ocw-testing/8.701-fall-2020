@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 8.701 F2020 Problem Set 4 Solution
-type: OCWFile
 uid: e9934e02-6fb8-439e-d23a-8ebffcef8962
 ---
