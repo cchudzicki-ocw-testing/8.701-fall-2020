@@ -25,55 +25,55 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource_link 80c7df03-298c-d68d-3fc0-0102bae6862f "Problem Set 1 (PDF)" >}}
+{{% resource_link 80c7df03-298c-d68d-3fc0-0102bae6862f "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 61c4e41a-1fa0-016d-8345-8aea06094042 "Problem Set 1 Solutions (PDF)" >}}
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-{{< resource_link a69ace13-9dcf-4c76-274c-5e9b05700ce0 "Problem Set 2 (PDF)" >}}
-{{< tdclose >}}
-{{< tdopen >}}
-{{< resource_link bf651db4-3f0a-061b-e393-42a2a886a834 "Problem Set 2 Solutions (PDF)" >}}
+{{% resource_link 61c4e41a-1fa0-016d-8345-8aea06094042 "Problem Set 1 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource_link a715d044-0367-0d09-ba3b-9036e0e5c1ec "Problem Set 3 (PDF)" >}}
+{{% resource_link a69ace13-9dcf-4c76-274c-5e9b05700ce0 "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 2e839876-1183-e50f-7c9a-74f6c4bfc922 "Problem Set 3 Solutions (PDF)" >}}
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-{{< resource_link 88b5a16c-4b20-46a2-7dc5-997d3b9293f7 "Problem Set 4 (PDF)" >}}
-{{< tdclose >}}
-{{< tdopen >}}
-{{< resource_link e9934e02-6fb8-439e-d23a-8ebffcef8962 "Problem Set 4 Solutions (PDF)" >}}
+{{% resource_link bf651db4-3f0a-061b-e393-42a2a886a834 "Problem Set 2 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource_link a3f89178-5aeb-bf63-500f-99c8ad28c230 "Problem Set 5 (PDF)" >}}
+{{% resource_link a715d044-0367-0d09-ba3b-9036e0e5c1ec "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link bce7d67c-762e-1c1f-d66f-591c8737351a "Problem Set 5 Solutions (PDF)" >}}
+{{% resource_link 2e839876-1183-e50f-7c9a-74f6c4bfc922 "Problem Set 3 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource_link d22332eb-4282-f5c3-d273-3fece89d362b "Problem Set 6 (PDF)" >}}
+{{% resource_link 88b5a16c-4b20-46a2-7dc5-997d3b9293f7 "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 665de848-0621-1041-9294-94be38e69c91 "Problem Set 6 Solutions (PDF)" >}}
+{{% resource_link e9934e02-6fb8-439e-d23a-8ebffcef8962 "Problem Set 4 Solutions (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link a3f89178-5aeb-bf63-500f-99c8ad28c230 "Problem Set 5 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link bce7d67c-762e-1c1f-d66f-591c8737351a "Problem Set 5 Solutions (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link d22332eb-4282-f5c3-d273-3fece89d362b "Problem Set 6 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 665de848-0621-1041-9294-94be38e69c91 "Problem Set 6 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
