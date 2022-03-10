@@ -6,7 +6,7 @@ learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "Lecture 0.5 Slides:\_[Early History and People in Nuclear and Particle\
-  \ Physics (PDF)](resources/mit8_701f20_lec0-5)"
+  \ Physics (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec0-5)"
 parent_title: Chapter 0. Introduction
 parent_type: CourseSection
 related_resources_text: ''

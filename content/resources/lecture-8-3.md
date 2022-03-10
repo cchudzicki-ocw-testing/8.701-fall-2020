@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: 'Lecture 8.4 Slides: [Experimental Study (PDF)](resources/mit8_701f20_lec8-4)'
+optional_text: 'Lecture 8.4 Slides: [Experimental Study (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec8-4)'
 parent_title: Chapter 8. Neutrino Physics
 parent_type: CourseSection
 related_resources_text: ''

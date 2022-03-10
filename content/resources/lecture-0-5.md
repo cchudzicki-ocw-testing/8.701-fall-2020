@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: "Lecture 0.6 Slides:\_[Particles (PDF)](resources/mit8_701f20_lec0-6)"
+optional_text: "Lecture 0.6 Slides:\_[Particles (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec0-6)"
 parent_title: Chapter 0. Introduction
 parent_type: CourseSection
 related_resources_text: ''

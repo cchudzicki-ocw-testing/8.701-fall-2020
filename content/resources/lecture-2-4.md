@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: 'Lecture 2.5 Slides: [CP (violation) (PDF)](resources/mit8_701f20_lec2-5)'
+optional_text: 'Lecture 2.5 Slides: [CP (violation) (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec2-5)'
 parent_title: Chapter 2. Symmetries
 parent_type: CourseSection
 related_resources_text: ''

@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: 'Lecture 1.1 Slides: [Quantum Field and Matter (PDF)](resources/mit8_701f20_lec1-1)'
+optional_text: 'Lecture 1.1 Slides: [Quantum Field and Matter (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec1-1)'
 parent_title: Chapter 1. Fermions, Bosons, and Fields
 parent_type: CourseSection
 related_resources_text: ''

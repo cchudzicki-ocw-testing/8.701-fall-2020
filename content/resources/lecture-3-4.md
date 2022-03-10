@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: "\_Lecture 3.5 Slides:\_[Divergency (PDF)](resources/mit8_701f20_lec3-5)"
+optional_text: "\_Lecture 3.5 Slides:\_[Divergency (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec3-5)"
 parent_title: Chapter 3. Feynman Calculus
 parent_type: CourseSection
 related_resources_text: ''
