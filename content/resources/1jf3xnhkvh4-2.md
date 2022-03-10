@@ -5,6 +5,7 @@ file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-t
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: b67aab1e-7a24-5132-a3a3-20b668418f1e

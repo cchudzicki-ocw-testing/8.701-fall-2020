@@ -8,6 +8,7 @@ optional_tab_title: Lecture Slides
 optional_text: 'Lecture 10.4 Slides: [Accelerators (PDF)](https://www.classe.cornell.edu/~hoff/LECTURES/10USPAS/notes01.pdf)'
 parent_title: Chapter 10. Instrumentation
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video

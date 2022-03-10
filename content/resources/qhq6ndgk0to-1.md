@@ -5,6 +5,7 @@ file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-t
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: bb7c4a09-733c-7bbf-866f-32f63a4e4a6c

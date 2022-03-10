@@ -8,6 +8,7 @@ optional_tab_title: Lecture Slides
 optional_text: 'Lecture 8.3 Slides: [Mixing (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec8-3)'
 parent_title: Chapter 8. Neutrino Physics
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video

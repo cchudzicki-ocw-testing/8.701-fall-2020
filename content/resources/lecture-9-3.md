@@ -8,6 +8,7 @@ optional_tab_title: Lecture Slides
 optional_text: 'Lecture 9.4 Slides: [Nuclear Force (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec9-4)'
 parent_title: Chapter 9. Nuclear Physics
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video

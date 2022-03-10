@@ -8,6 +8,7 @@ optional_tab_title: Lecture Slides
 optional_text: 'Lecture 5.6 Slides: [Hadron Collider (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec5-6)'
 parent_title: Chapter 5. QCD
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video

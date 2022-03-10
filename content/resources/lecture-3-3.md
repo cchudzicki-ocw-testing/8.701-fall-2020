@@ -8,6 +8,7 @@ optional_tab_title: Lecture Slides
 optional_text: "\_Lecture 3.4 Slides:\_[Higher-Order Diagrams (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec3-4)"
 parent_title: Chapter 3. Feynman Calculus
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
