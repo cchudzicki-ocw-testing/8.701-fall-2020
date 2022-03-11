@@ -8,7 +8,6 @@ optional_tab_title: Lecture Slides
 optional_text: 'Lecture 6.2 Slides: [Electroweak Unification (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec6-2)'
 parent_title: Chapter 6. Weak Interactions
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
