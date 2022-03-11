@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 4. QED - 5. Feynman Rules for QED.pdf
-uid: 55f49b30-6967-4e86-8876-075a3a263c03
+uid: 02011371-fb05-4795-8fea-14c4a12a62f0
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

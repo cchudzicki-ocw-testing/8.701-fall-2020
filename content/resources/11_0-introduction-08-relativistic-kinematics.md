@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 11_0. Introduction - 0.8 Relativistic Kinematics.html
-uid: ff8d9102-a841-42d6-8313-fc7ab9f5e5cb
+uid: b24233e2-8f19-4db7-a8aa-806b8b4d9f22
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

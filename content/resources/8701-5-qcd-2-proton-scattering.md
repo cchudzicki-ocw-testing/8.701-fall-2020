@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 5. QCD - 2. Proton Scattering.pdf
-uid: 41532093-442a-4070-be75-706feddf7af6
+uid: 2d91ccbf-4dcf-4a85-8212-4fd254c48bbd
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

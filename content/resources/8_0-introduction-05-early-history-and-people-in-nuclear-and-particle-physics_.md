@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8_0. Introduction - 0.5 Early History and People in Nuclear and Particle Physics_.html
-uid: b1f15096-c302-4d16-b61b-be91cb6c9364
+uid: 8a9e5e8d-466e-44d1-a51f-f8106dc4babf
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

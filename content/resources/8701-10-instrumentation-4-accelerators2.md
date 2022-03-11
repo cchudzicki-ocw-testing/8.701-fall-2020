@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 10. Instrumentation - 4.  Accelerators.pdf
-uid: 0d9f9a4f-7161-4955-86c4-86037c8fcafb
+uid: 80337aab-421d-4996-a85e-56d5f02b793d
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

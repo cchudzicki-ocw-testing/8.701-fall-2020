@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 6. Weak Interactions - 1. Feynman Rules.pdf
-uid: 7cfd3e55-40a8-4524-8a29-34b1f97773cb
+uid: 0114921c-1aa2-4343-a974-e59317978396
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

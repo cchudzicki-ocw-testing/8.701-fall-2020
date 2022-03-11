@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2_8. Neutrino Physics - 2. Mass
-uid: 926defd9-4550-452b-b150-c36cdd76d0b5
+uid: 0452778f-40d5-48b9-98eb-313b82903731
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

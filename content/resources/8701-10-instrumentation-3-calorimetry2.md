@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 10. Instrumentation - 3.  Calorimetry.pdf
-uid: 53f07a15-7b28-4918-a20e-dd4b7dea8741
+uid: 51a04c90-f17d-4279-8be4-15dcf56883df
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

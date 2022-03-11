@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 9. Nuclear Physics - 5. Shell Model.pdf
-uid: 2adc0c8e-60f9-4c01-a254-ac4d63de46db
+uid: c490538c-c9cb-43f5-b17b-8d253e38f806
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 3. Feynman Calculus - 4. Higher-order Diagrams.pdf
-uid: 7dcce156-e07e-4d61-96a6-e342e0586db4
+uid: 86d77722-8d0f-4adc-9b50-aa3f1fe00588
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

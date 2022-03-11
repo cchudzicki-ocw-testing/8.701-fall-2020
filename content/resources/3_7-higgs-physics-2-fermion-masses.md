@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 3_7. Higgs Physics - 2. Fermion Masses.html
-uid: 2f0270b0-dfcb-4d5a-85e8-4bcf80c99856
+uid: 1cfa613b-b561-4fdd-8d17-ad2380385c9a
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

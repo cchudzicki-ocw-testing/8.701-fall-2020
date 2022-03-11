@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 0. Introduction - 3. Teaching Staff.pdf
-uid: 9a32a93b-cded-4fa4-bafe-c6b5bb8abc06
+uid: 8312a2c6-98cc-414f-8b47-933766ffbba2
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

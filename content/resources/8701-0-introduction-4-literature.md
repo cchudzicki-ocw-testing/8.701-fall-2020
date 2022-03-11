@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 0. Introduction - 4. Literature .pdf
-uid: f575a728-0388-4c13-8448-0c1535b6f2f1
+uid: 40fd3a83-a5e5-4095-af3e-4949c23f0276
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

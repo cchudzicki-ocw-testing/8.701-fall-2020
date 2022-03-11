@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 3_5. QCD - 5. Asymptotic Freedom.html
-uid: 732c6b4e-29f8-4851-824e-0b562588b020
+uid: 072a5fd6-71c9-4e55-ba41-99ab297f2c3c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2_3. Feynman Calculus - 2. Fermi_s Golden Rule.html
-uid: 52896db8-6ca0-451f-8117-88f7274119bc
+uid: f990f18e-79be-4a90-a8a5-cfe90a989a42
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

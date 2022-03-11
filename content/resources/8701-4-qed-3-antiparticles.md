@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 4. QED - 3. Antiparticles.pdf
-uid: 50e866a5-187f-48a1-921e-07703fa52ade
+uid: 1e20b0e6-1338-411e-a88e-f180c89d4b9e
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

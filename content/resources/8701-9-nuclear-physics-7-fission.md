@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 9. Nuclear Physics - 7. Fission.pdf
-uid: 6ec78cb3-2b22-4bd2-90e0-1d844dc4efb0
+uid: 8577418f-2e8d-4f60-9124-2047887f535f
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

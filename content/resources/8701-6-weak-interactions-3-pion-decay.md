@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 6. Weak Interactions - 3. Pion Decay.pdf
-uid: 7645cede-bb96-4c92-be5e-7fc333461ea0
+uid: 623ea2b0-eaa5-4df9-8493-7c6c5581f424
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

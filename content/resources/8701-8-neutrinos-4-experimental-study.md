@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 8. Neutrinos - 4. Experimental Study.pdf
-uid: 3c3a68a5-901b-4987-8527-e08c17f75b0d
+uid: 602677e0-e6ed-4839-af47-e87c34ba9471
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

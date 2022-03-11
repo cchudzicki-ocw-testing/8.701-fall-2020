@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 9. Nuclear Physics - 2. Binding Energy.pdf
-uid: bdc937c7-3423-48eb-9c24-b2cfb3dbd3aa
+uid: e7c92a97-41af-4dc1-947f-f0d179062ca8
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

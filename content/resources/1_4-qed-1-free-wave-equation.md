@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_4. QED - 1. Free Wave Equation.html
-uid: 5e172d79-ceca-4719-9f0f-73e78f5c80df
+uid: 6f87f693-c72e-4c0b-bb74-6e995f5ba15d
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

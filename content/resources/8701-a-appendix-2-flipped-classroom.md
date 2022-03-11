@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - A. Appendix - 2. Flipped Classroom.pdf
-uid: 3fb61e6c-93d7-46a7-8e7b-0d9fe4b725dd
+uid: 6ec80b7d-2647-483b-b081-f753faa33d43
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

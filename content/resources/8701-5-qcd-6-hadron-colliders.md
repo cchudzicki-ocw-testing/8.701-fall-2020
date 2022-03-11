@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 5. QCD - 6. Hadron Colliders.pdf
-uid: 3f001c76-10b6-4ebb-b27b-e247829d9128
+uid: 125b035c-1e07-4772-90d2-bfd31ff5c34b
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

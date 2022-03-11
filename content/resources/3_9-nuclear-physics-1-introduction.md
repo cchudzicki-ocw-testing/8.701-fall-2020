@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 3_9. Nuclear Physics - 1. Introduction.html
-uid: 16264993-aeff-46f7-a858-c5f04f58f51d
+uid: c891cf7f-d425-48c3-8527-3e70cba2bd07
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

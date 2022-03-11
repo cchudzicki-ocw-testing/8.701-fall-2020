@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Image
 title: 8-701f20_course_home.jpeg
-uid: f4766544-83f4-43ae-bca1-6d0ef1ae1ae5
+uid: 52a4c3f8-917e-46b5-b4ff-38dca0a5e219
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

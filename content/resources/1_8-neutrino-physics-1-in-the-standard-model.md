@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_8. Neutrino Physics - 1. In the Standard Model.html
-uid: f946578b-ac48-43f5-b0cb-d564acf4186f
+uid: 9e474455-799c-4247-b59f-985df6d8c3e1
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

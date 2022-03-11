@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 2. Symmetries 3. Parity.pdf
-uid: b6c83604-dc8d-49cf-86f2-25276d4dede9
+uid: 77fdfa7c-cac3-4f59-ae0e-8d4e124b6ebc
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

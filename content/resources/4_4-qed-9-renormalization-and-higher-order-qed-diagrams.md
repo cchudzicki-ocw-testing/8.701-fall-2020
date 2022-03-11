@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 4_4. QED - 9. Renormalization and higher-order QED diagrams.html
-uid: 71ce8f8b-005b-4ee9-962f-d2761320110c
+uid: 229c8a81-6a44-4d1e-9b4b-9ca93f832388
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

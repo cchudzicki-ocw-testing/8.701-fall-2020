@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 2. Symmetries 1. Introduction.pdf
-uid: 3c730cac-5f35-4eb4-b4d3-77356de43e74
+uid: 7c7094f3-c7cf-415a-84e0-df92d3dfffa3
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

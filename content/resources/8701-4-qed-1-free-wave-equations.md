@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 4. QED - 1. Free Wave Equations.pdf
-uid: f2ab960e-20ae-4b6d-ad3a-412987207478
+uid: c98b13db-f3e1-4825-be7d-cef81068fa9d
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
