@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2_9. Nuclear Physics - 5. Shell Model.html
-uid: bcccd360-f7b1-40e9-ac1b-5f7eb2a44440
+uid: 710dd079-f3a2-4db2-9638-6ee6416b5ae5
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

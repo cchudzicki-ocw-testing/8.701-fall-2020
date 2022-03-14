@@ -5,9 +5,10 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: 'Lecture 10.1 Slides: [Particle Interaction with Matter (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec10-1)'
+optional_text: 'Lecture 10.1 Slides: [Particle Interaction with Matter (PDF)](resources/mit8_701f20_lec10-1)'
 parent_title: Chapter 10. Instrumentation
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video

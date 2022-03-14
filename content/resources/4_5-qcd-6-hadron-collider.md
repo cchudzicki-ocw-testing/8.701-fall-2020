@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 4_5. QCD - 6. Hadron Collider.html
-uid: 25857742-71a0-4c48-8b54-aa9fe24390b7
+uid: 097d7a56-85f4-4b3a-9f06-5e8ecf476c04
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

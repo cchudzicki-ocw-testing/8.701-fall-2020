@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2_8. Neutrino Physics - 6. Mass Scale and Nature.html
-uid: f08973a6-eb2d-48ea-95b0-185c97a53829
+uid: 9d0c58db-8aae-4a7d-8e9a-b920c7dc04fa
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

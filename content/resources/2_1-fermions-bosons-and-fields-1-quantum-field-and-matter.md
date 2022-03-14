@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2_1. Fermions, bosons, and fields - 1. Quantum field and matter.html
-uid: ac0192a2-9dd5-4ef0-8bea-bd79d138647c
+uid: e5593878-0258-4813-ad16-782fe2628785
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

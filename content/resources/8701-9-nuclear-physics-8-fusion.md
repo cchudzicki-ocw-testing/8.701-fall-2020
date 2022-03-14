@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 9. Nuclear Physics - 8. Fusion.pdf
-uid: 99008490-dc92-493f-a9ae-48c9a6b146e4
+uid: 00bf39d9-013a-4e91-aa62-92246c6009b2
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

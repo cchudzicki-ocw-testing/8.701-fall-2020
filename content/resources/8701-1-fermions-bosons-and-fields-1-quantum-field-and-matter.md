@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 1. Fermions, bosons, and fields - 1. Quantum field and matter.pdf
-uid: 278dbb2e-2817-43c9-bfc6-dc99fed32714
+uid: f15ebc3c-0947-4397-8b6e-8a7f9bab378e
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

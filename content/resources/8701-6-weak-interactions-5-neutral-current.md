@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 6. Weak Interactions - 5. Neutral Current.pdf
-uid: 88f68605-96b0-478c-a716-5eb4f0950d40
+uid: ed393bac-4f4a-4491-9c03-aceb299777cb
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

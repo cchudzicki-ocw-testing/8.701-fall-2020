@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 5. QCD - 1. Hadron Production.pdf
-uid: 048ad41a-d8a4-4127-b0f1-78d378f89d16
+uid: 1e5d3563-ea52-4593-88b5-58f7315e5800
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

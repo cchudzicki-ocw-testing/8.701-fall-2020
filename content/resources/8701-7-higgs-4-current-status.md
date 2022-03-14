@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 7. Higgs - 4. Current Status.pdf
-uid: e7bc3cdb-d05d-40c0-a53e-b63a5693d914
+uid: a80bbd45-c00b-498c-a98e-8c66dcfacb1f
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

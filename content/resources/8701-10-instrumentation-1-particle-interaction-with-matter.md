@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 10. Instrumentation - 1.  Particle Interaction with Matter.pdf
-uid: fcea02fe-c249-410e-ae7e-b1396546fbbf
+uid: d1a1123b-627c-48d9-9fe2-7d7f5ab6e73f
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

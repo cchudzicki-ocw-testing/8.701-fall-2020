@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_4. QED - 6. Examples.html
-uid: d4b28a0c-387f-414c-bbe7-9651b64b975f
+uid: 66d3dc42-54f5-4c81-9e52-e84a36fd10bc
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

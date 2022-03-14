@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 8. Neutrinos - 5. Results.pdf
-uid: 516d33b6-54dc-4c2f-a48f-4df6dbcbceab
+uid: 6b5e310a-18d4-4020-a2cc-7c5607a8cac8
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 5_10. Instrumentation - 2. Tracking Detectors.html
-uid: 0ba128da-8286-4448-bee5-d35a6e9be531
+uid: 62d115f0-abf0-4e59-a5aa-81152e69e206
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

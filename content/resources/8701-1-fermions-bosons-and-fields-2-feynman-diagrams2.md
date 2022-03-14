@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 1. Fermions, bosons, and fields - 2. Feynman diagrams.pdf
-uid: 8c19bbec-b0a2-4aac-86bc-0750cb0cad15
+uid: 64c595e5-8699-4464-905f-0eeb71f16736
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

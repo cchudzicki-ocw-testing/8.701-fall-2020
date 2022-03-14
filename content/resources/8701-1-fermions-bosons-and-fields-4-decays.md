@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 1. Fermions, bosons, and fields - 4. Decays.pdf
-uid: 4c33a2b0-782b-48f4-ac1b-6aede2253bd8
+uid: 786899ad-42df-403f-968e-439c43d819b9
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

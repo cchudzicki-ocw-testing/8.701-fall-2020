@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2_7. Higgs Physics - 1. Higgs Mechanism.html
-uid: 992d260d-c76a-41ad-a154-e2dedad396d1
+uid: af0ddb48-7cf4-4f32-9f54-1715e4582142
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_9. Nuclear Physics - 4. Nuclear Force.html
-uid: 15a2f9ef-0a5d-4acb-92c7-6cedc612182e
+uid: 5d31edf6-87b0-437f-92b9-1cc4f71ec27e
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

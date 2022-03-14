@@ -5,9 +5,10 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: 'Lecture 5.4 Slides: [Deep Inelastic Scattering (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec5-4)'
+optional_text: 'Lecture 5.4 Slides: [Deep Inelastic Scattering (PDF)](resources/mit8_701f20_lec5-4)'
 parent_title: Chapter 5. QCD
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 0. Introduction - 5. History and People.pdf
-uid: 63ad4f3b-1191-4afb-8d70-1612e2246302
+uid: 664ec05b-04c7-4ff4-976f-381e59a35237
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

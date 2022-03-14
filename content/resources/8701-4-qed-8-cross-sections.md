@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 4. QED - 8. Cross Sections.pdf
-uid: e9dd5530-fc25-4b01-ab49-b15a961c1901
+uid: 444f1c24-0620-4ed8-a635-5646b763288b
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_2. Symmetries - 1. Introduction.html
-uid: 7881e0f0-6a4a-4f44-9476-8e004ace2eac
+uid: 954b70cc-489a-4ad3-8130-4b5a25a87bea
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

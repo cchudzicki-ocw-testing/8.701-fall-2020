@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 6. Weak Interactions - 4. Quarks.pdf
-uid: f3387069-9748-447f-b914-d263a6849239
+uid: 89eac16d-3ad4-44fc-9f5e-264ed5d572a7
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

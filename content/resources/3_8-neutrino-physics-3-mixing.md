@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 3_8. Neutrino Physics - 3. Mixing.html
-uid: 82d9e418-983a-40ec-aa5a-35dc61326ca4
+uid: 3b593741-be07-4e90-9cdf-ee36ad5db2c7
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

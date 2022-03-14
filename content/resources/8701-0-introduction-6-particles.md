@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 0. Introduction - 6. Particles.pdf
-uid: 9769beb0-dabd-426b-bf5a-a44b3221a86a
+uid: 4acb8c47-921f-48f5-b138-643104abb097
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

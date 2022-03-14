@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 2. Symmetries - 4. Charge Conjugation.pdf
-uid: 8cfaa476-ae57-40ad-9846-d185c219f775
+uid: 93e2c3c8-d136-4983-9aad-c34775aaaadc
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

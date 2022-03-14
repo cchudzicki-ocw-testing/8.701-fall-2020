@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 0. Introduction - 9. Spin.pdf
-uid: a13e6f14-0fd8-4ee2-b9cb-0be1b8161f25
+uid: aebb95aa-050d-42f5-8829-904c443dad40
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

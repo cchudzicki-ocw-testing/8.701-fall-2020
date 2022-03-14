@@ -5,9 +5,10 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: 'Lecture 2.3 Slides: [Parity (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec2-3)'
+optional_text: 'Lecture 2.3 Slides: [Parity (PDF)](resources/mit8_701f20_lec2-3)'
 parent_title: Chapter 2. Symmetries
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video

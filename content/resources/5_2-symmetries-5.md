@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 5_2. Symmetries - 5. CP
-uid: dfd09ea2-ba3a-4106-9607-f3f71e5ae59e
+uid: 045abccf-4d3f-4114-8aa5-fd1aab30ffc5
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

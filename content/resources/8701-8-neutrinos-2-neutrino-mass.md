@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 8. Neutrinos - 2. Neutrino Mass.pdf
-uid: ff583567-7e3e-40f7-b867-225d6fa5b701
+uid: b4e40b86-02fd-4bb1-b038-232e577e2ad5
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

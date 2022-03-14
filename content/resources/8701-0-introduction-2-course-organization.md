@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 0. Introduction - 2. Course Organization .pdf
-uid: 069c5869-bb6a-47e2-a1da-956bd1f34bcf
+uid: 89d1ba9d-2100-412b-acff-483d7e579a3b
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

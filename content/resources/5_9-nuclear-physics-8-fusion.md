@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 5_9. Nuclear Physics - 8. Fusion.html
-uid: 68096be6-0e3e-46f6-b214-7d7b309476c0
+uid: 789f3afa-5992-49fc-b333-9bea32988224
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
