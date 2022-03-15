@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: 'Lecture 9.5 Slides: [Shell Model (PDF)](resources/mit8_701f20_lec9-5)'
+optional_text: 'Lecture 9.5 Slides: [Shell Model (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec9-5)'
 parent_title: Chapter 9. Nuclear Physics
 parent_type: CourseSection
 related_resources_text: ''

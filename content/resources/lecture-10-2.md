@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: 'Lecture 10.3 Slides: [Calorimetry (PDF)](resources/mit8_701f20_lec10-3)'
+optional_text: 'Lecture 10.3 Slides: [Calorimetry (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec10-3)'
 parent_title: Chapter 10. Instrumentation
 parent_type: CourseSection
 related_resources_text: ''

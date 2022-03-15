@@ -5,7 +5,7 @@ file: null
 learning_resource_types: []
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: "\_Lecture 3.1 Slide:\_[Introduction (PDF)](resources/mit8_701f20_lec3-1)"
+optional_text: "\_Lecture 3.1 Slide:\_[Introduction (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec3-1)"
 parent_title: Chapter 3. Feynman Calculus
 parent_type: CourseSection
 related_resources_text: ''
