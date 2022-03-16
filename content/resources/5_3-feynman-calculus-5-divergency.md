@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 5_3. Feynman Calculus - 5. Divergency.html
-uid: c783b33b-e2c2-4fae-bd03-2c26af98a85a
+uid: cecf976c-b0e6-4cd1-8075-59d28d6d62ef
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

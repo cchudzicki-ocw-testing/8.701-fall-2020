@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Image
 title: course-image.jpg
-uid: 89391cbb-e7b0-438b-b906-0eedb568bc0e
+uid: 614cc6a3-0100-4ff1-817a-112c319242f3
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_0. Introduction - 0.9 Spin
-uid: f6c4dfb3-4e8e-44c0-b94b-3df8a0c32d73
+uid: d9a0012e-698b-4401-a85d-11c03c4339da
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

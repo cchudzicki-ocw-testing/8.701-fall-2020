@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2020-10-15-recitation.pdf
-uid: 40d1392c-0f0a-4349-a2cb-8066ffde019b
+uid: 634acce5-d4d4-4732-9509-e53d0f1489ca
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 2. Symmetries - 5. CP.pdf
-uid: 625adf48-1982-4b53-bcde-3aeb169639c7
+uid: 2bb10f8f-5698-4118-b668-07f69f8ffb24
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

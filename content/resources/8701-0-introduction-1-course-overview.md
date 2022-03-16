@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 0. Introduction - 1. Course Overview.pdf
-uid: bf86a335-5ade-4e57-9478-af0b8e293fe9
+uid: dfc53a49-a91b-4ae2-b213-91a98e8a3b82
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

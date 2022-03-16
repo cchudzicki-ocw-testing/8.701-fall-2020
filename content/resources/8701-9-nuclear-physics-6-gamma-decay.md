@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 9. Nuclear Physics - 6. Gamma Decay.pdf
-uid: b5a01f8d-8b9e-4ab0-a1e5-e58eef3d9cc7
+uid: 352df216-31ce-47ad-b6b3-ffd4ab1241c4
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

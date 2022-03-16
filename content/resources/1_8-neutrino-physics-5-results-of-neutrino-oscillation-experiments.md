@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_8. Neutrino Physics - 5. Results of Neutrino Oscillation Experiments.html
-uid: e7274bb1-f5d1-4d0f-a093-4ad7ab77a7c3
+uid: 805c1216-837b-47cf-a7c8-f08ad9a4b25a
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

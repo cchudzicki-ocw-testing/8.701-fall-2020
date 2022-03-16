@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 1. Fermions, bosons, and fields - 3. Ranges of Forces.pdf
-uid: bcd635f0-dec1-4765-8a76-d7091fc88dc7
+uid: 0fad2896-ebc4-480b-be97-ed6b62c90481
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 3_9. Nuclear Physics - 11. Element Synthesis.html
-uid: fe9cbe29-871d-456d-8b60-5285928f4ba4
+uid: 4517dae0-f5a4-45c8-9b7c-ebbc768922b8
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

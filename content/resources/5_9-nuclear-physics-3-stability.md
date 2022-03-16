@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 5_9. Nuclear Physics - 3. Stability.html
-uid: 87f19038-4fda-4ce8-93ea-c461746085a4
+uid: efa69a3f-5221-411c-8591-208cec75c017
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

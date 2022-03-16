@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_6. Weak Interactions - 5. Neutral Current.html
-uid: 319b4fb1-d23c-4355-a134-90438628116c
+uid: 65d98ad1-db3f-48c5-a94d-8c462c1f9015
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

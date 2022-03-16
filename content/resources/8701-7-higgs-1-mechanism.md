@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 7. Higgs - 1. Mechanism.pdf
-uid: 2471cb5f-3599-44f3-b031-9842ec28c021
+uid: b1b88308-b258-490c-bb9f-6c8e43218163
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

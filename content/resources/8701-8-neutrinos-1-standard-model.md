@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 8. Neutrinos - 1. Standard Model.pdf
-uid: 589cf1c3-4d22-4bea-ae01-7e486cf329ca
+uid: a10ef98e-930f-4f77-a52f-ba53ac7aae29
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

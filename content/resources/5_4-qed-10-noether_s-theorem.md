@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 5_4. QED - 10. Noether_s Theorem.html
-uid: 954e9f09-083a-448f-94e2-0d7b0e83cfca
+uid: 11493eff-8c2c-493b-a990-4bc5e734abcb
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

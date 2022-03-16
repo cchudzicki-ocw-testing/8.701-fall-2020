@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 3. Feynman Calculus - 1. Introduction.pdf
-uid: f918cb9d-f165-4fe9-b9cd-91ff70b82819
+uid: f6e3ba2c-f085-41f7-8935-6f2bfbdbc33c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

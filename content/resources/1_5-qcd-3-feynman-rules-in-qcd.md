@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_5. QCD - 3. Feynman Rules in QCD.html
-uid: c52221f5-3f32-481f-8c1e-1d0eca294214
+uid: 454bc468-104d-4f74-ac12-a754627a49b1
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

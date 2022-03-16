@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 6. Weak Interactions - 2. Electroweak Unification.pdf
-uid: d1c86bcc-54e2-4bff-9aca-6ef33e196460
+uid: c27f2d93-06fe-4a4c-9893-b07fb2b52dfc
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

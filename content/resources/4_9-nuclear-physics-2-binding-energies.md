@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 4_9. Nuclear Physics - 2. Binding Energies.html
-uid: cb364b0b-dcba-4515-82b0-1b28cd400d3c
+uid: e4dcd91f-3a3b-41a9-b8be-922695af2fe1
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

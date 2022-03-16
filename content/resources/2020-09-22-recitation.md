@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2020-09-22-recitation.pdf
-uid: 615b95fe-27ab-44be-9785-918932b8f1a8
+uid: 3959d2c5-8213-4ee1-bbad-132b8a71762a
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

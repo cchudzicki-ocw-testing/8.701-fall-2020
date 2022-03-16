@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 4_7. Higgs Physics - 3. Production and Decay.html
-uid: e0ff0cf9-b72d-4c1a-afa1-ab0ebddb65ab
+uid: db12b316-5e76-42d5-9069-b9fd49df7d4b
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

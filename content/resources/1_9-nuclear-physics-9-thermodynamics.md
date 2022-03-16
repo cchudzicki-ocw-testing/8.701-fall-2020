@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_9. Nuclear Physics - 9. Thermodynamics.html
-uid: 379c5f8f-32bc-4b32-b759-61742c82b15c
+uid: f08edb0b-58a8-4efe-baff-64ff4fbd16a2
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 9. Nuclear Physics - 3. Stability .pdf
-uid: 9cdf3c74-37bc-48b7-9531-543f080b57f8
+uid: 386fdd2e-6a3e-41d9-9d2e-527f1ff30dcd
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
