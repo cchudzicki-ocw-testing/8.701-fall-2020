@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 2. Symmetries 2. Flavor Symmetry.pdf
-uid: fc7828be-0ae3-4a15-8708-08ce8f4e5e5f
+uid: 7ec511c9-c2e2-4afb-80e0-bdd9cb765f55
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

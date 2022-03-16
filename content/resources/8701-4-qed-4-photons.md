@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 4. QED - 4. Photons.pdf
-uid: c0af4f98-9fa9-4e56-ba82-7afd735e88e0
+uid: 27137899-f132-45ae-924a-90860fff5ee8
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

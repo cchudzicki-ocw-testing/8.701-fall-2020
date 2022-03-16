@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 7. Higgs - 2. Fermion Masses.pdf
-uid: 2f095005-a2bc-4dfd-ac7d-9448e9f67293
+uid: eed74e49-5919-432b-bdcb-5c12ef1e235e
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

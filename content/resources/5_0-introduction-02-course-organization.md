@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 5_0. Introduction - 0.2 Course Organization.html
-uid: 2d6c915a-bf1b-4714-998a-646e960de90b
+uid: 577ab3e8-f814-452c-9b51-ebbea1741d41
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 3_3. Feynman Calculus - 3. Toy Theory.html
-uid: 7d6c733b-a10c-4086-8ac2-db75ec20d2f2
+uid: 64bdad03-01ac-4cf3-95d4-7c07fb367f63
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

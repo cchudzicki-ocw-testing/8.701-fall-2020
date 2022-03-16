@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 3_2. Symmetries - 3. Parity.html
-uid: d9d36420-91e5-4842-91c0-3114886e0bef
+uid: 66e73802-1a70-4c97-8692-62479ffc3b2e
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

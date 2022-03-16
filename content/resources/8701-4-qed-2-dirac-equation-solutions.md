@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 4. QED - 2. Dirac Equation Solutions.pdf
-uid: 8988fefb-3886-4988-81bd-e68b38098963
+uid: 982fb187-b89a-44c2-8960-b21f796fcb1c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

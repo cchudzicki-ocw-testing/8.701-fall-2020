@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2_4. QED - 7. Casimir_s Trick.html
-uid: 8b8afecf-df21-4c35-82b4-ebfc06e7cf1c
+uid: 2f31730f-72da-4148-8ede-ec08eeab63ab
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

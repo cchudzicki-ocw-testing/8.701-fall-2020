@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 4_8. Neutrino Physics - 4. Experimental Study.html
-uid: c22d48f6-2974-4263-a013-e6eae46119f2
+uid: 4e73385f-30f5-4835-82b7-eedd9b08ec87
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 7_5. QCD - 2. Elastic electron-positron scattering.html
-uid: aa1db7eb-e10c-4289-a362-b48449ecff23
+uid: 3cf95217-f19c-43bc-b757-7ccb6841f2f7
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Image
 title: width-screenshot.png
-uid: 5202466a-e3e3-4c14-8248-5d5145d54a43
+uid: ca0fe21f-769c-409d-b944-6481dd8cd0df
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

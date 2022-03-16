@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 5. QCD - 4. Deep Inelastic Scattering.pdf
-uid: 537dfe89-3add-40fb-b41a-f4e5dedde292
+uid: df6f5268-299c-4e73-89d8-7fb7086b7f8f
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

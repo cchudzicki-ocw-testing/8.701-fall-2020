@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 6_1. Fermions, bosons, and fields - 5. Reactions.html
-uid: e0816438-7b19-44cd-9ddf-59f2c608f918
+uid: 0233bf26-8bbf-4dbc-a4e3-db45d9ec1adb
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

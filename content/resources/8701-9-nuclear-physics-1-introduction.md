@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 9. Nuclear Physics - 1. Introduction.pdf
-uid: 108d6a36-7c7a-4565-b3b8-c4592edaff39
+uid: 363eeae3-41c6-40bb-b916-2c7beb13b99a
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

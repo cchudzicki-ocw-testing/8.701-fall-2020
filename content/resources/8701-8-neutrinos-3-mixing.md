@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 8. Neutrinos - 3. Mixing.pdf
-uid: 7b44933a-4d0b-4504-9b45-616aea348430
+uid: c63cf387-3626-442f-a133-3dafa96dcab4
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

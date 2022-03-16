@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 4. QED - 9. Renormalization.pdf
-uid: 4863660b-85ef-4fa6-8f43-f0d01d5c43c9
+uid: c6927e78-aa06-4100-af18-f4c11f8b6187
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

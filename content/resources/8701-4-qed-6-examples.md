@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 4. QED - 6. Examples.pdf
-uid: 2e7b836f-3a6e-4aac-ac18-b0ce042badd2
+uid: eb1aec9b-c491-42d0-ba5f-4b8f055140d4
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

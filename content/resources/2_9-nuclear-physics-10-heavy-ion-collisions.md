@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2_9. Nuclear Physics - 10. Heavy Ion Collisions.html
-uid: 151d8c97-6568-49f8-97ba-ae35bf5c59ce
+uid: 6b3d6b96-2bbc-45b9-85dc-59699ca9c817
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

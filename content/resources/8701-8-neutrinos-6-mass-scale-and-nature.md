@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 8. Neutrinos - 6. Mass Scale and Nature.pdf
-uid: 182de195-d3ed-4268-9d00-c1f606327dbd
+uid: 873772ea-db49-4a6d-bd61-a069b5ebee6a
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

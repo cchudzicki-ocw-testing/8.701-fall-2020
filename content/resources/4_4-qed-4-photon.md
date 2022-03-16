@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 4_4. QED - 4. Photon.html
-uid: 191b8b8a-68e2-4747-a775-578e0259286a
+uid: f30c51f5-22cf-486e-bd12-b044c27bd050
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

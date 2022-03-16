@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 6_5. QCD - 1. Hadron Production.html
-uid: 21c1b099-2a3a-4dc8-8763-ed6f886c0d8f
+uid: 26dc0e23-37b3-4bd6-bd71-d6853b3a6b8e
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

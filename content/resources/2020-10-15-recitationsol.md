@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2020-10-15-recitationSol.pdf
-uid: 19290bf5-243f-44f5-ae33-9ae5417e9e0b
+uid: 97b9987c-e59e-4373-be7a-04496cc37d10
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

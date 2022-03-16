@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - A. Appendix - 1. NUPAX Course Description.pdf
-uid: c386e35c-f757-4905-960d-241117ee967e
+uid: 3410b079-0fb4-411b-b0e6-0db70258bda7
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

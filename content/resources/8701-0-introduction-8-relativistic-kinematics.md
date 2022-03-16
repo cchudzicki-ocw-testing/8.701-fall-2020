@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 0. Introduction - 8. Relativistic Kinematics.pdf
-uid: a5afe9d4-8795-4f16-b2f2-f03c59e5d1e8
+uid: 57fc7e41-366b-4c6e-9450-99a76ca808b1
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
