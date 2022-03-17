@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/3_9-nuclear-physics-11-element-synthesis.html
 file_type: text/html
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 3_9. Nuclear Physics - 11. Element Synthesis.html
-uid: 4930e775-07f5-449c-b60a-14a537c0ba79
+uid: d91fb5a0-d21e-4ce4-8a4a-d5b51a510ce2
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

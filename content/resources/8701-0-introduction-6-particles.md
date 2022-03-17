@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-0-introduction-6-particles.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 0. Introduction - 6. Particles.pdf
-uid: 861b7be3-68db-49d8-af7c-bed012390299
+uid: 5bf47afa-4eb8-41be-bc32-217c987d8e7e
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

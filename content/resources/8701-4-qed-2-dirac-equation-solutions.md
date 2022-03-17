@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-4-qed-2-dirac-equation-solutions.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 4. QED - 2. Dirac Equation Solutions.pdf
-uid: 982fb187-b89a-44c2-8960-b21f796fcb1c
+uid: 4e8acc67-0f1a-4119-929b-731de51cc78d
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/2020-10-08-recitationsol.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2020-10-08-recitationSol.pdf
-uid: d8e562fc-610f-4823-87dd-b9bec66e7592
+uid: 6b36eb81-3100-4b38-9857-471374e8ddc5
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

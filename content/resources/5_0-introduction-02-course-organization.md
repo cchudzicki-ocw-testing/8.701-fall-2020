@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/5_0-introduction-02-course-organization.html
 file_type: text/html
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 5_0. Introduction - 0.2 Course Organization.html
-uid: 577ab3e8-f814-452c-9b51-ebbea1741d41
+uid: 1519aa9d-c14d-408d-a365-1038a1e8f914
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

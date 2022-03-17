@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-6-weak-interactions-1-feynman-rules.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 6. Weak Interactions - 1. Feynman Rules.pdf
-uid: a86717c4-3f73-430b-b00a-2b91e53e051d
+uid: 13aca3e4-b60c-472a-a707-f1884a857b4f
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

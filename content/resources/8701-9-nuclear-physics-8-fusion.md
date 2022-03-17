@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-9-nuclear-physics-8-fusion.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 9. Nuclear Physics - 8. Fusion.pdf
-uid: efec1d00-5bf6-4254-94c5-b0f16da9547c
+uid: 9f8b57cc-3139-4239-ab26-88aa4cb9cec4
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

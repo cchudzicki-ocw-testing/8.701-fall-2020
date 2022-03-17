@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-5-qcd-3-feynman-rules-for-qcd.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 5. QCD - 3. Feynman Rules for QCD.pdf
-uid: e4e2f0a0-2b96-4a09-a01d-65eb7216d2ff
+uid: bb92a1e2-9842-4df5-be87-a31a7e19cb12
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

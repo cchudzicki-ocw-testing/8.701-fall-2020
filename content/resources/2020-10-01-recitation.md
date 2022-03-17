@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/2020-10-01-recitation.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2020-10-01-recitation.pdf
-uid: aba3f382-9aab-4563-9ffe-b39e141c5643
+uid: d661576a-d0a6-4297-90e7-3312f54ff54a
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-1-fermions-bosons-and-fields-4-decays.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 1. Fermions, bosons, and fields - 4. Decays.pdf
-uid: 903c9177-ea98-40d5-8d19-758882939713
+uid: f3b56b34-3055-46e3-aca0-1bfbd317ef81
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

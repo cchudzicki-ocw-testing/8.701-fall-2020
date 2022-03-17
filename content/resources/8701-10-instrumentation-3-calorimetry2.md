@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-10-instrumentation-3-calorimetry2.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 10. Instrumentation - 3.  Calorimetry.pdf
-uid: 9f9357bc-121f-4487-b25f-844bce82cb46
+uid: 2e97d96e-7ad8-4071-8c3c-8a25dcb15b28
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

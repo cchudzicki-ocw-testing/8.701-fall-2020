@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-1-fermions-bosons-and-fields-5-reactions2.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 1. Fermions, bosons, and fields - 5. Reactions.pdf
-uid: 24c5c961-fc9c-4011-926e-655ba19313a8
+uid: 82ff928d-0ad2-4c18-b2b2-b044d10ec4db
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

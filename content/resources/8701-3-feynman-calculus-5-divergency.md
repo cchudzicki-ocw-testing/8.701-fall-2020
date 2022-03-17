@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-3-feynman-calculus-5-divergency.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 3. Feynman Calculus - 5. Divergency.pdf
-uid: 683924a6-7024-4943-aba0-0603d06dcb61
+uid: 1b068385-6839-49eb-bd3c-86ad4ad2090f
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

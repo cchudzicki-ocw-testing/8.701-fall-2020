@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-1-fermions-bosons-and-fields-1-quantum-field-and-matter2.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 1. Fermions, bosons, and fields - 1. Quantum field and matter.pdf
-uid: 65f75562-1d06-44a0-8239-efec6a681475
+uid: 29bd2eb2-d585-4890-9681-7bd13ae79909
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

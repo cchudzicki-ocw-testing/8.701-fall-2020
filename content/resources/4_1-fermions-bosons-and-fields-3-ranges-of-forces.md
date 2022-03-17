@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/4_1-fermions-bosons-and-fields-3-ranges-of-forces.html
 file_type: text/html
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 4_1. Fermions, bosons, and fields - 3. Ranges of Forces.html
-uid: 959f9c01-e1ec-4ab3-b8ff-f3bdc3f9eccd
+uid: 64e72c75-8ee3-4060-a613-3a3509c3a603
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-8-neutrinos-5-results.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 8. Neutrinos - 5. Results.pdf
-uid: a070b9c3-0259-477c-b4c7-80057af46f38
+uid: 6ba4b4b4-bbd0-4e48-856f-11edebbc7b6d
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

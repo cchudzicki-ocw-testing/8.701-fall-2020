@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/4_4-qed-9-renormalization-and-higher-order-qed-diagrams.html
 file_type: text/html
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 4_4. QED - 9. Renormalization and higher-order QED diagrams.html
-uid: 8a74d0c5-e64b-4f96-b3ce-904af43c5920
+uid: cdccad5f-b81f-48ed-b2a6-576a7d575bfc
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

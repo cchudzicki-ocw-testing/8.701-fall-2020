@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-0-introduction-9-spin.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 0. Introduction - 9. Spin.pdf
-uid: 9a34060e-0408-4251-b553-c6c01553041e
+uid: bf792afe-9399-4ce5-ad94-5c511f8afa56
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-2-symmetries-3-parity.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 2. Symmetries 3. Parity.pdf
-uid: 3f5e713c-9f82-46bf-a875-6d6236ef7556
+uid: 3cdcc3ef-65fc-44cf-aaf7-c36fbec5e89b
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/3_5-qcd-5-asymptotic-freedom.html
 file_type: text/html
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 3_5. QCD - 5. Asymptotic Freedom.html
-uid: 2a51b2d2-7e54-4c63-b7be-a7bb8125e615
+uid: 3ae6f340-f18c-4f44-a7dd-cf996ce3be7e
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

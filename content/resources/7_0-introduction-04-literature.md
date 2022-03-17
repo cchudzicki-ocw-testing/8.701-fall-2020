@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/7_0-introduction-04-literature.html
 file_type: text/html
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 7_0. Introduction - 0.4 Literature.html
-uid: da67b8ab-09e6-4ba4-98a8-66f5ce5c9e9e
+uid: dcdf41bc-9ae9-4078-845a-91205b3c6204
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

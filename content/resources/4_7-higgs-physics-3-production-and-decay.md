@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/4_7-higgs-physics-3-production-and-decay.html
 file_type: text/html
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 4_7. Higgs Physics - 3. Production and Decay.html
-uid: b60654b2-9949-499c-88ec-375c545c1055
+uid: f1a511ec-f93b-4e59-925c-81f8d6f2936d
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

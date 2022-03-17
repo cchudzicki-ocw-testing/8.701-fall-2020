@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-2-symmetries-4-charge-conjugation.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 2. Symmetries - 4. Charge Conjugation.pdf
-uid: bc5af7dc-ab47-4074-b7fe-9382f5c84143
+uid: 66381b35-4d12-4094-ba5b-33101efb25f8
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

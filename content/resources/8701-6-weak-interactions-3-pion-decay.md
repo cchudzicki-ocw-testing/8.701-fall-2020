@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-6-weak-interactions-3-pion-decay.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 6. Weak Interactions - 3. Pion Decay.pdf
-uid: 3751bd55-36c1-43b2-bc46-d6aab02248bb
+uid: 5f04eae9-acc8-4915-9f46-99baaae3bbdf
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

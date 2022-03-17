@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/1_6-weak-interactions-5-neutral-current.html
 file_type: text/html
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_6. Weak Interactions - 5. Neutral Current.html
-uid: 5f50cdc2-c53e-44d4-8d3f-8561642264a2
+uid: 9fbcc1aa-6aee-4086-a032-9c3082049a4c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

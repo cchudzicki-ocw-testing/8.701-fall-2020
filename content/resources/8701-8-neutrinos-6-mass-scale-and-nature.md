@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-8-neutrinos-6-mass-scale-and-nature.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 8. Neutrinos - 6. Mass Scale and Nature.pdf
-uid: 873772ea-db49-4a6d-bd61-a069b5ebee6a
+uid: 6d66d928-1d8e-4f8c-92d1-18f67760f8be
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

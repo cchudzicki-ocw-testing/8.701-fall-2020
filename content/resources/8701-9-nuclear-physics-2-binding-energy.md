@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-9-nuclear-physics-2-binding-energy.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 9. Nuclear Physics - 2. Binding Energy.pdf
-uid: 3c450373-18d7-49a1-85c5-ebfbcaf984ac
+uid: 42bd88c1-ff1c-4e2c-b14a-16659a3aa984
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

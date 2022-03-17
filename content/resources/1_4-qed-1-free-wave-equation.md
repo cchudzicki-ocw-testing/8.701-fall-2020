@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/1_4-qed-1-free-wave-equation.html
 file_type: text/html
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_4. QED - 1. Free Wave Equation.html
-uid: 81ffcac6-a798-488f-be3f-5e1c12fd26a0
+uid: 5a10d1fd-12ef-4e31-83fa-08506c1ae221
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

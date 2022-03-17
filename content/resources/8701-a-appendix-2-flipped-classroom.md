@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-a-appendix-2-flipped-classroom.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - A. Appendix - 2. Flipped Classroom.pdf
-uid: a9845562-5904-4628-af64-ed672fa44145
+uid: 11a13a8b-429e-4277-9da9-93361749cb52
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

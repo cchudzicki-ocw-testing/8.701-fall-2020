@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-6-weak-interactions-4-quarks.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 6. Weak Interactions - 4. Quarks.pdf
-uid: 9c6d7654-5f2a-4ebf-8d34-1617b6e8da87
+uid: cdeef744-d180-4d19-b720-2efd12dae2a9
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

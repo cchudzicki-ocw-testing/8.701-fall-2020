@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-10-instrumentation-2-tracking-detectors2.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 10. Instrumentation - 2.  Tracking Detectors.pdf
-uid: 2cdc2beb-f9d5-4b6c-a76a-0f8bbf413e3e
+uid: 539d81ca-2425-4d2e-aeea-2185711eb9b6
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

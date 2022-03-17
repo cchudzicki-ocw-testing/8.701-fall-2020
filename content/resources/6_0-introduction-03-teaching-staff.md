@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/6_0-introduction-03-teaching-staff.html
 file_type: text/html
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 6_0. Introduction - 0.3 Teaching Staff.html
-uid: 419df78a-3235-4e0c-a31a-09665c0c9979
+uid: a9d7111d-8789-4920-b986-8f7668087235
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

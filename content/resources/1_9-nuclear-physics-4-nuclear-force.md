@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/1_9-nuclear-physics-4-nuclear-force.html
 file_type: text/html
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_9. Nuclear Physics - 4. Nuclear Force.html
-uid: 4d43be33-03c2-48db-83b9-0fcb701be6f4
+uid: 0150566d-97a9-4d92-bd50-4693d8ec8ab7
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

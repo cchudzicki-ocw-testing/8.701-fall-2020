@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/2_9-nuclear-physics-10-heavy-ion-collisions.html
 file_type: text/html
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2_9. Nuclear Physics - 10. Heavy Ion Collisions.html
-uid: 6b3d6b96-2bbc-45b9-85dc-59699ca9c817
+uid: d5233997-2028-49e3-ac40-ef4c0cc19247
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

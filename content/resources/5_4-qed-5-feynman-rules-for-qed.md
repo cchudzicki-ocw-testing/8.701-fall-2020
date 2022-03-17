@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/5_4-qed-5-feynman-rules-for-qed.html
 file_type: text/html
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 5_4. QED - 5. Feynman Rules for QED.html
-uid: 2ffcfb21-0b93-4532-bbc0-5ae8fa378916
+uid: 415696cf-2698-42e4-acb3-68713aeb1d61
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

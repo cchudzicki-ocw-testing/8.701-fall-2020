@@ -1,7 +1,6 @@
 ---
 content_type: resource
 description: ''
-draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-4-qed-8-cross-sections.pdf
 file_type: application/pdf
 image_metadata:
@@ -12,7 +11,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 4. QED - 8. Cross Sections.pdf
-uid: 8b9fffdf-57e4-4608-af5e-723d13806ab9
+uid: ea7c2993-6e1c-4972-afdf-d373f1787de9
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
