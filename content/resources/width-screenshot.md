@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/width-screenshot.png
 file_type: image/png
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Image
 title: width-screenshot.png
-uid: f65cf92d-019a-4f29-9096-0e7386bc3b25
+uid: 5550569c-68c6-465e-a570-d7c8149603f0
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-9-nuclear-physics-7-fission.pdf
 file_type: application/pdf
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 9. Nuclear Physics - 7. Fission.pdf
-uid: 3988f240-cc14-40ab-8f93-f7a570ecc7d6
+uid: bab085bb-b6df-436f-a505-fe13a6d958eb
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

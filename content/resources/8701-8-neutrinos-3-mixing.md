@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-8-neutrinos-3-mixing.pdf
 file_type: application/pdf
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 8. Neutrinos - 3. Mixing.pdf
-uid: c8e2ba14-d571-4d0a-8f65-cb02b89f269b
+uid: 63c51f2e-e1f7-4073-80ca-961eeebf2653
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

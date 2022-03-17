@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-8-neutrinos-2-neutrino-mass.pdf
 file_type: application/pdf
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 8. Neutrinos - 2. Neutrino Mass.pdf
-uid: 70b651d6-f43e-4362-9bb8-ad26c05c16e7
+uid: c08f6919-f10f-4abf-adb0-88cc9f67f767
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

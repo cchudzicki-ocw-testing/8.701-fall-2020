@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/2_2-symmetries-2-flavor-symmetry.html
 file_type: text/html
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2_2. Symmetries - 2. Flavor Symmetry.html
-uid: 245c71ad-d8c4-4373-860d-e1f12177f1ac
+uid: 437e3122-3586-4e46-b422-a520c981b984
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

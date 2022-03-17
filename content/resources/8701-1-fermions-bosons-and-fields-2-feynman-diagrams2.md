@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8701-1-fermions-bosons-and-fields-2-feynman-diagrams2.pdf
 file_type: application/pdf
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 8.701 - 1. Fermions, bosons, and fields - 2. Feynman diagrams.pdf
-uid: 4f59fb12-12ae-43e5-bd99-641f0c55dd5b
+uid: ad4166ad-d2b8-4081-903a-6377c110d529
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

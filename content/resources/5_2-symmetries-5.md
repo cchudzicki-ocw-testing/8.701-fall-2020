@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/5_2-symmetries-5.%20cp
 file_type: text/html
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 5_2. Symmetries - 5. CP
-uid: 585d3d2f-c576-4cbb-a41e-3baed69ed62c
+uid: 7572a21a-c273-4c65-ac20-0389395eaa07
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

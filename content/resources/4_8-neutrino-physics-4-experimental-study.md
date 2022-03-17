@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/4_8-neutrino-physics-4-experimental-study.html
 file_type: text/html
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 4_8. Neutrino Physics - 4. Experimental Study.html
-uid: c8cffafe-588e-4a61-83ac-2751aecb8897
+uid: 27bfd410-84a7-4cfa-88c5-df179b45820a
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

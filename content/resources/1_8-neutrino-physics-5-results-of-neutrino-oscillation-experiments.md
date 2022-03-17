@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/1_8-neutrino-physics-5-results-of-neutrino-oscillation-experiments.html
 file_type: text/html
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_8. Neutrino Physics - 5. Results of Neutrino Oscillation Experiments.html
-uid: 86bf74b6-2e56-453a-9ec1-804d431cdbfd
+uid: 41d8f056-3fef-41e4-bdf7-2de6a37cc6d1
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

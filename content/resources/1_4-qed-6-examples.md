@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/1_4-qed-6-examples.html
 file_type: text/html
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 1_4. QED - 6. Examples.html
-uid: 98ecc8e6-5c35-4b1b-8cd2-22fc1dfe16f7
+uid: 492b57f7-715b-4535-aaed-e9132cf1b5ec
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

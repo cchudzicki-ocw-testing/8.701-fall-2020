@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/course-image2.jpg
 file_type: image/jpeg
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Image
 title: course-image.jpg
-uid: b6043559-f36d-4af3-b282-56ca0cd99949
+uid: d14c674c-662e-4267-9e3e-70e3f67ae50c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

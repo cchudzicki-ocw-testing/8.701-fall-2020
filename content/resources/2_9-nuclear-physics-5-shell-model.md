@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/2_9-nuclear-physics-5-shell-model.html
 file_type: text/html
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Document
 title: 2_9. Nuclear Physics - 5. Shell Model.html
-uid: b9bd6e71-a9ef-42c7-b198-d3284fadce0d
+uid: 29c54c45-4f08-475a-98ee-1089d60cead8
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
