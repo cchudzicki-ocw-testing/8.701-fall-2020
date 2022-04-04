@@ -76,7 +76,7 @@ TOPICS
 0.6
 {{< tdclose >}}
 {{< tdopen >}}
-[Particles (PDF)]({{< baseurl >}}/resources/mit8_701f20_lec0-6)
+{{% resource_link "03b975f5-fefb-9265-404c-165115fa4206" "Particles (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +127,7 @@ TOPICS
 1.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Feynman Diagrams (PDF)]({{< baseurl >}}/resources/mit8_701f20_lec1-2)
+{{% resource_link "66a96344-f9d3-3b7e-b908-705dc70352b5" "Feynman Diagrams (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
