@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Discussion of the charged weak interaction with quarks and an introduction of the CMS matrix. (09:17)
 
 **Instructor:** Prof. Markus Klute
+

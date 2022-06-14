@@ -27,3 +27,4 @@ video_metadata:
 **Description:** A brief introduction to Feynman calculus. Starting the quantitative discussion of particle dynamics. (02:18)
 
 **Instructor:** Prof. Markus Klute
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** Discussion of the early history and people in nuclear and particle physics from the 1820s to 1939. (16:01)
 
 **Instructor:** Prof. Markus Klute
+

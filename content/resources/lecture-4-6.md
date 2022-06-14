@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Discussion on how to treat spin in the calculation of amplitudes. (10:24)
 
 **Instructor:** Prof. Markus Klute
+

@@ -27,3 +27,4 @@ video_metadata:
 **Description:** A brief introduction to the importance of symmetries and Noether's theorem. (07:15)
 
 **Instructor:** Prof. Markus Klute
+

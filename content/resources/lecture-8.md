@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Properties of neutrinos in the Standard Model including a brief discussion of neutrino scattering. (05:04)
 
 **Instructor:** Prof. Markus Klute
+

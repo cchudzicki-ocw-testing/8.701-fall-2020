@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Parity violation and the Wu experiment. (04:29)
 
 **Instructor:** Prof. Markus Klute
+

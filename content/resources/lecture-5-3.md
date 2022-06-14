@@ -27,3 +27,4 @@ video_metadata:
 **Description:** We take a deep look into the structure of protons with deep inelastic scattering. (09:51)
 
 **Instructor:** Prof. Markus Klute
+

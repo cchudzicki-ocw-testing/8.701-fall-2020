@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Listing textbooks used in the course and how they can be used. (03:34)
 
 **Instructor:** Prof. Markus Klute
+

@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Overview of topics and the calendar for the Fall 2020 semester of 8.701 Nuclear and Particle Physics. (05:58)
 
 **Instructor:** Prof. Markus Klute
+

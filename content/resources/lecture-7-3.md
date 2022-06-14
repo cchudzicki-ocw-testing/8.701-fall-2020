@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Highlights of our current understanding of the Higgs boson. (08:13)
 
 **Instructor:** Prof. Markus Klute
+

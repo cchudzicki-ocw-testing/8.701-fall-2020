@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Discussing the Higgs mechanics with a toy model and then using the standard model. (13:24)
 
 **Instructor:** Prof. Markus Klute
+

@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Discussion of the impact of mass on the range for forces. (05:29)
 
 **Instructor:** Prof. Markus Klute
+

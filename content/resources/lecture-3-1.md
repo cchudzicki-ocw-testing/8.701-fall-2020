@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Decay rates and scattering cross-sections can be calculated using Fermi's golden rule which states that the observables follow from the amplitude and phase space. (06:37)
 
 **Instructor:** Prof. Markus Klute
+

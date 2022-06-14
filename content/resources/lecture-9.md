@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Introduction of the terminology in nuclear physics. (05:26)
 
 **Instructor:** Prof. Markus Klute
+

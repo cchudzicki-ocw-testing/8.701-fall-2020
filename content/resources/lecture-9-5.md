@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Discussion of gamma decays, the nuclear spectroscopy, and the Mossbauer effect. (04:42)
 
 **Instructor:** Prof. Markus Klute
+

@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Introduction to the nuclear shell model and magic numbers. (06:31)
 
 **Instructor:** Prof. Markus Klute
+

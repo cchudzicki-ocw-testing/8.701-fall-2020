@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Discussion of the kinematics of relativistic particles in the previous section. Spin adds an additional complication. Here we review the concept of spin and define helicity. (05:05)
 
 **Instructor:** Prof. Markus Klute
+

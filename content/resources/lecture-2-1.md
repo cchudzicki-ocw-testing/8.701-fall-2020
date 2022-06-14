@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Introduction of flavor symmetry and strong isospin. (06:50)
 
 **Instructor:** Prof. Markus Klute
+

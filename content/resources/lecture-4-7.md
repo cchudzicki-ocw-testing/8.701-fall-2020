@@ -27,3 +27,4 @@ video_metadata:
 **Description:** We can now combine what we learned in this chapter and calculate scattering cross-sections. (06:50)
 
 **Instructor:** Prof. Markus Klute
+

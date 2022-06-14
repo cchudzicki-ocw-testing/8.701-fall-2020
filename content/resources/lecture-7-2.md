@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Look into how Higgs bosons are production at the LHC and how they decay. (05:35)
 
 **Instructor:** Prof. Markus Klute
+

@@ -27,3 +27,4 @@ video_metadata:
 **Description:** In this first lecture on QCD, we discuss hadron production in electron-position collisions and the R-ratio. (09:27)
 
 **Instructor:** Prof. Markus Klute
+

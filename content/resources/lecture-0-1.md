@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Discussion of course structure, grading scheme, and communication channels. (04:01)
 
 **Instructor:** Prof. Markus Klute
+

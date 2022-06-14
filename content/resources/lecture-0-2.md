@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Introduction of the teaching staff: Instructor Markus Klute and Teaching Assistant Justin. (04:24)
 
 **Instructor:** Prof. Markus Klute
+

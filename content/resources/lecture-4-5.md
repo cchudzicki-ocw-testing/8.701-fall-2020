@@ -27,3 +27,4 @@ video_metadata:
 **Description:** With all tools in place, we can now start calculating transition amplitudes for QED processes. In this video, we look at electron muon scattering as one example. (04:22)
 
 **Instructor:** Prof. Markus Klute
+

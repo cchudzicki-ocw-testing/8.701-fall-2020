@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Discussion of decay rates and lifetime. (07:37)
 
 **Instructor:** Prof. Markus Klute
+

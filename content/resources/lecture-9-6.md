@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Discussion of nuclear fission, chain reactions, and nuclear fission reactors. (05:26)
 
 **Instructor:** Prof. Markus Klute
+

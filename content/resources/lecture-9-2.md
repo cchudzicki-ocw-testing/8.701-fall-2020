@@ -27,3 +27,4 @@ video_metadata:
 **Description:** The discussion of nuclear binding energy leads to a set of nuclides that are stable and others that can decay. (10:22)
 
 **Instructor:** Prof. Markus Klute
+

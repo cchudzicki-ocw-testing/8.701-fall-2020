@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Introducing fundamental and composite particles, the key player of our discussion of particle and nuclear physics. (14:00)
 
 **Instructor:** Prof. Markus Klute
+

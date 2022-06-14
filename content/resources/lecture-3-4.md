@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Evaluation of a specific high-order diagram and a discussion of divergencies which lead to a redefinition of the values of masses and couplings. (06:33)
 
 **Instructor:** Prof. Markus Klute
+

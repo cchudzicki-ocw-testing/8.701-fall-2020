@@ -27,3 +27,4 @@ video_metadata:
 **Description:** Discussion of nuclear binding energies. (09:31)
 
 **Instructor:** Prof. Markus Klute
+

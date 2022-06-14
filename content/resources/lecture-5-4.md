@@ -27,3 +27,4 @@ video_metadata:
 **Description:** We have a look at the running of the strong coupling and asymptotic freedom. (06:53)
 
 **Instructor:** Prof. Markus Klute
+
