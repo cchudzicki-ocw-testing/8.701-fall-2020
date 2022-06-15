@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the course meeting times, prerequisites, course
+  description, course grading policy, and a course calendar.  '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

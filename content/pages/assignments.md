@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes 6 problem sets and solutions and a list of seminal
+  papers in nuclear and particle physics for paper presentation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

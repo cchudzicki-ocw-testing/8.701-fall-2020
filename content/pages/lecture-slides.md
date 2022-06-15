@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes 67 short lecture slides.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
